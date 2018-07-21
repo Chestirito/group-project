@@ -1,5 +1,7 @@
-# Superheroe Database
-### Group Project
+# Superheroe Database 
+#### Group Project
+
+
 ## Purpose
 We wanted to create a website were people could easily look up a superheroes, get up to date with the character and also buy items related to the character. Our main target audience are those who do not know much about heroes but still know what is going on.
 
